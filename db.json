@@ -50,7 +50,7 @@
       "id": 7
     },
     {
-      "codigoPedido": "||REF_PEDIDO||",
+      "codigoPedido": "1234567",
       "nomeEmpresa": "||NM_FILIAL||",
       "cnpjEmpresa": "||DOC_FILIAL||",
       "plataforma": "||NM_PLAT||",
